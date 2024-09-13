@@ -1,0 +1,2 @@
+# Rhythmify
+A Music Platform
